@@ -108,11 +108,23 @@ Typical Sprint Flow: The following are the Scrum ceremonies followed in agile me
 
 &nbsp;																 | 2. What went well / What didn’t go well
 
-&nbsp;																 | 3. Identify improvement actions for the next sprint                  
+&nbsp;																 | 3. Identify improvement actions for the next sprint    
 
 
 
+In Sprint Planning, I clarify acceptance criteria and estimate testing effort.
 
+
+
+In Daily Stand-up, I update on testing progress and blockers.
+
+
+
+In Sprint Review, I confirm tested features and highlight quality status.
+
+
+
+In Retrospective, I suggest process improvements (test coverage, automation, defect leakage reduction).
 
 
 
